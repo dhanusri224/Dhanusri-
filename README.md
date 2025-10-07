@@ -127,7 +127,6 @@
       <li>web developer</li>
       <li>python programming</li>
      
-    </ul>
   </section>
 
   <section id="projects" class="projects">
