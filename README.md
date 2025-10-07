@@ -136,10 +136,6 @@
       <h3>vintage vault</h3>
       <p>the pericious things in india</p>
     </div>
-    <div class="project">
-      <h3>vintage vault</h3>
-      <p>the precious things in india </p>
-    </div>
   </section>
 
   <section id="contact" class="contact">
